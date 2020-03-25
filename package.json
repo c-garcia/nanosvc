@@ -1,0 +1,29 @@
+{
+  "name": "nanosvc",
+  "version": "1.0.0",
+  "description": "Just a nano-svc",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/c-garcia/nanosvc.git"
+  },
+  "keywords": [
+    "concourse"
+  ],
+  "author": "Cristobal Garcia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c-garcia/nanosvc/issues"
+  },
+  "homepage": "https://github.com/c-garcia/nanosvc#readme",
+  "dependencies": {
+    "@hapi/hapi": "^19.1.1",
+    "mocha": "^7.1.1"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0"
+  }
+}
