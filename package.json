@@ -21,7 +21,7 @@
   "homepage": "https://github.com/c-garcia/nanosvc#readme",
   "dependencies": {
     "@hapi/hapi": "^19.1.1",
-    "mocha": "^7.1.1"
+    "mocha": "^10.2.0"
   },
   "devDependencies": {
     "chai": "^4.2.0"
